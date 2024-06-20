@@ -1,0 +1,19 @@
+{
+  "name": "task_map2js",
+  "version": "1.0.0",
+  "description": "упорядочить работу с ошибками в своём приложении",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikan152435/Task_MAP2js.git"
+  },
+  "author": "NikaN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikan152435/Task_MAP2js/issues"
+  },
+  "homepage": "https://github.com/Nikan152435/Task_MAP2js#readme"
+}
