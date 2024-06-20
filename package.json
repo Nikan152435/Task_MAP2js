@@ -1,10 +1,13 @@
 {
   "name": "task_map2js",
   "version": "1.0.0",
-  "description": "упорядочить работу с ошибками в своём приложении",
-  "main": "index.js",
+  "description": "A project to manage error codes and their descriptions.и",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   },
   "repository": {
     "type": "git",
